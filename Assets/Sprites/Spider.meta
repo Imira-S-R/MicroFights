@@ -1,0 +1,1064 @@
+fileFormatVersion: 2
+guid: f32594f13b6a57141b68ec84dca24491
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7168120505417291811
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_0
+  - first:
+      213: 3853550035069451000
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_1
+  - first:
+      213: 2981861510140380153
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_2
+  - first:
+      213: 2521862441822770115
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_3
+  - first:
+      213: 7444472795105830136
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_4
+  - first:
+      213: -2645497577691257378
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_5
+  - first:
+      213: -6309180247423607094
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_6
+  - first:
+      213: -1453843770444960834
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_7
+  - first:
+      213: 731725645860937046
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_8
+  - first:
+      213: -6253773908034786
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_9
+  - first:
+      213: 5266343085788651976
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_10
+  - first:
+      213: -5243980004080583735
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_11
+  - first:
+      213: 3187702369567530307
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_12
+  - first:
+      213: 1716290785184979296
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_13
+  - first:
+      213: 9099895136119188550
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_14
+  - first:
+      213: -2386980031590066914
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_15
+  - first:
+      213: -4762469047927667283
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_16
+  - first:
+      213: -72363713109729465
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_17
+  - first:
+      213: -4511883404654117529
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_18
+  - first:
+      213: -936377530093833375
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_19
+  - first:
+      213: 5943692999610625429
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_20
+  - first:
+      213: 2033351371534460858
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_21
+  - first:
+      213: 3793247363251388756
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_22
+  - first:
+      213: 3797512902593584610
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_23
+  - first:
+      213: -4341723535826519132
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_24
+  - first:
+      213: -7048774398532192074
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_25
+  - first:
+      213: -6000041969726152828
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_26
+  - first:
+      213: -5363103385491146754
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_27
+  - first:
+      213: -131736176503092611
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_28
+  - first:
+      213: -1340191486035450114
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_29
+  - first:
+      213: 9011950367585380764
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_30
+  - first:
+      213: -8235143905706689921
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_31
+  - first:
+      213: 1574423393800036953
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_32
+  - first:
+      213: -4862316301154336880
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_33
+  - first:
+      213: -4440539099152890309
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_34
+  - first:
+      213: -2152034483295900391
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_35
+  - first:
+      213: 1240652973525963772
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_36
+  - first:
+      213: -2633817167294719211
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_37
+  - first:
+      213: -5587974836307754874
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_38
+  - first:
+      213: 8185394754083132442
+    second: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_39
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 363
+        width: 109
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7a86fe068b58c90800000000000000
+      internalID: -7168120505417291811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_1
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 363
+        width: 114
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa3284075f8a7530800000000000000
+      internalID: 3853550035069451000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 363
+        width: 117
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3c351be33b16920800000000000000
+      internalID: 2981861510140380153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 363
+        width: 120
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c3de3987847ff220800000000000000
+      internalID: 2521862441822770115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_4
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 363
+        width: 115
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f4a75c8094105760800000000000000
+      internalID: 7444472795105830136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 363
+        width: 112
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed56e8338fd494bd0800000000000000
+      internalID: -2645497577691257378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_6
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 363
+        width: 113
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace97601ef94178a0800000000000000
+      internalID: -6309180247423607094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_7
+      rect:
+        serializedVersion: 2
+        x: 892
+        y: 363
+        width: 112
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebba6b72bc8e2dbe0800000000000000
+      internalID: -1453843770444960834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_8
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 296
+        width: 110
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65d959a199c972a00800000000000000
+      internalID: 731725645860937046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 296
+        width: 103
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1bb4bbc938c9eff0800000000000000
+      internalID: -6253773908034786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_10
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 296
+        width: 107
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c164cd522fc51940800000000000000
+      internalID: 5266343085788651976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 296
+        width: 109
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cb768758f3a937b0800000000000000
+      internalID: -5243980004080583735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_12
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 296
+        width: 107
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d5ebb7a6efc3c20800000000000000
+      internalID: 3187702369567530307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_13
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 296
+        width: 102
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0691a36306d71d710800000000000000
+      internalID: 1716290785184979296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_14
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 296
+        width: 100
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c60b9b962594e70800000000000000
+      internalID: 9099895136119188550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_15
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 296
+        width: 109
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e159f1bde4ebfded0800000000000000
+      internalID: -2386980031590066914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_16
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 219
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da58a7032af48edb0800000000000000
+      internalID: -4762469047927667283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 219
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74f57791699eefef0800000000000000
+      internalID: -72363713109729465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_18
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 219
+        width: 104
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d7c9dc2f19261c0800000000000000
+      internalID: -4511883404654117529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_19
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 219
+        width: 102
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1637917f8915103f0800000000000000
+      internalID: -936377530093833375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_20
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 219
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59d64c7ca4d3c7250800000000000000
+      internalID: 5943692999610625429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_21
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 219
+        width: 96
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab76ddb9c4ae73c10800000000000000
+      internalID: 2033351371534460858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_22
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 219
+        width: 98
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45149cf116254a430800000000000000
+      internalID: 3793247363251388756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 142
+        width: 105
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed9d056dd973b430800000000000000
+      internalID: 3797512902593584610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_24
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 142
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab7b1692791fb3c0800000000000000
+      internalID: -4341723535826519132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_25
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 142
+        width: 90
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b8fe91d709bd2e90800000000000000
+      internalID: -7048774398532192074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_26
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 142
+        width: 104
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f990d3e919bbca0800000000000000
+      internalID: -6000041969726152828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_27
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 142
+        width: 102
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7fa16c2ed6295b0800000000000000
+      internalID: -5363103385491146754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_28
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 58
+        width: 106
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a077b35aafb2ef0800000000000000
+      internalID: -131736176503092611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_29
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 58
+        width: 110
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6aadfa1fea66de0800000000000000
+      internalID: -1340191486035450114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_30
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 58
+        width: 104
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c99a069ac11e01d70800000000000000
+      internalID: 9011950367585380764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_31
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 58
+        width: 99
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a312adf34e6bd80800000000000000
+      internalID: -8235143905706689921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_32
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 58
+        width: 99
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95224892cb979d510800000000000000
+      internalID: 1574423393800036953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_33
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 58
+        width: 97
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09fba14f515958cb0800000000000000
+      internalID: -4862316301154336880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_34
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 58
+        width: 86
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3642cf57390062c0800000000000000
+      internalID: -4440539099152890309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_35
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 4
+        width: 85
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da1c61a007222e0800000000000000
+      internalID: -2152034483295900391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_36
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4
+        width: 71
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf31c806e4fa73110800000000000000
+      internalID: 1240652973525963772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 4
+        width: 72
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51b921cad3dc27bd0800000000000000
+      internalID: -2633817167294719211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_38
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 4
+        width: 79
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6800e042e768372b0800000000000000
+      internalID: -5587974836307754874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Saturn - Congo The Movie The Lost City of Zinj - Giant Spider_39
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 4
+        width: 57
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a149877292d589170800000000000000
+      internalID: 8185394754083132442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
